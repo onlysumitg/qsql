@@ -2,11 +2,14 @@
 Q SQL: IBM I - SQL 
 
 Download or clone this repo.
-# Open shell/cmd/powershell (or whatever its called) and use the following command
+> point shell/cmd/powershell (or whatever its called) in that dir and use the following command
 
-# java -jar qsql.jar
+> java -jar qsql.jar
 
-
+Default 
+> user name : Admin
+> Password  : AdminPass
+  
 
 
 ALL SOFTWARE IS PROVIDED “AS IS” WITHOUT ANY WARRANTY OF ANY NATURE WHATSOEVER. THE PROVIDER OF THIS SOFTWARE HEREBY DISCLAIMS ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS, STATUTORY OR OTHERWISE, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTY OF TITLE AND THE IMPLIED WARRANTY OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE PROVIDER SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR AS A RESULT OF YOUR USE
