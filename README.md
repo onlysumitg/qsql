@@ -2,9 +2,9 @@
 Q SQL: IBM I - SQL 
 
 Download or clone this repo.
-Open shell/cmd/powershell (or whatever its called) and use the following command
+# Open shell/cmd/powershell (or whatever its called) and use the following command
 
-java -jar qsql.jar
+# java -jar qsql.jar
 
 
 
