@@ -1,0 +1,6 @@
+*.db
+test.mv.db
+*.mv.db
+/download
+/downloads
+test.mv*
