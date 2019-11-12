@@ -1,5 +1,7 @@
 # qsql
-Q SQL: IBM I - SQL 
+Q SQL: IBM I - SQL client
+
+Its a brower based client for IBM I SQL. 
 
 Download or clone this repo.
 > point shell/cmd/powershell (or whatever its called) in that dir and use the following command
