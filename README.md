@@ -1,22 +1,29 @@
 # qsql
+
 Q SQL: IBM I - SQL client
 
-Its a brower based SQL client for IBM I. 
+Its a brower based SQL client for IBM I.
 
 **Download or clone this repo.**
+
 > point shell/cmd/powershell (or whatever its called) in that dir and use the following command
 
 > java -jar qsql.jar
 
+It will open the url in your default browser.
+
+**I.E. (any version) is not supported. Chrome and firefox only**
+
 <hr/>
 
 **Default**
+
 > -user name : Admin
 
-> -Password  : AdminPass
+> -Password : AdminPass
 
 > Port: 7007 and 7071
-  
+
 <hr/>
 
 **Main Features:**
@@ -33,8 +40,8 @@ Its a brower based SQL client for IBM I.
 <hr/>
 
 **Features not included:**
-1. calls for overloaded SPs.
 
+1. calls for overloaded SPs.
 
  <hr/>
  
@@ -42,7 +49,6 @@ Its a brower based SQL client for IBM I.
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/1.png)
 
 <hr/>
-
 
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/6.png)
 
@@ -52,16 +58,14 @@ Its a brower based SQL client for IBM I.
 
 <hr/>
 
-
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/3.png)
-
 
 <hr/>
 
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/4.png)
 
-
 >
+
 <hr/>
 
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/5.png)
