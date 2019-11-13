@@ -6,11 +6,14 @@ Its a brower based SQL client for IBM I.
 
 **Download or clone this repo.**
 
-> point shell/cmd/powershell (or whatever its called) in that dir and use the following command
+> For windows
 
-> java -jar qsql.jar
-> --OR--
-> For windows : Simply click on 1RUN.BAT file.
+1. Simply click on 1RUN.BAT file.
+
+> For Linux/Mac/ Windows
+
+1. point shell/cmd/powershell (or whatever its called) in that dir and use the following command
+2. java -jar qsql.jar
 
 It will open the url in your default browser.
 
