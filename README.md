@@ -25,6 +25,9 @@ Its a brower based SQL client for IBM I.
 7. Screen SQL: to build the quick screens for reusable sqls.
 8. DB DOC: To document database tables.
 
+**Features not included:**
+1. calls for overloaded SPs.
+
   
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/1.png)
 
