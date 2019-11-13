@@ -62,10 +62,14 @@ It will open the url in your default browser.
 - double click on any column (from the vertical row) will display that single column in sperate area.
 - This is useful for big data types like JSON and XML.
 
+<br />
+ 
 > Joins
 
 - Table header will contain the table name for each column if data is coming from multiple tables.
 
+<br />
+ 
 > **@s : inline Edit**
 
 > @s customer
@@ -73,20 +77,27 @@ It will open the url in your default browser.
 > @s customer where custid < 10
 
 - this will give inline edit options for the customer table data.
+
 - @s select \* from customer is not allowed
 
+<br />
+ 
 > **@connect: connect to a differnt server to run the sql**
 
 > @connect Server2>> select \* from customer
 
 - this will run the given query on "Server2"
 
+<br />
+ 
 > **@multi: run multiple queries in one go.**
 
 > @multi @s customer && select _ from product && select _ from abc join xyz on a= b
 
 - result for each query will be displayed in a seprate tab.
 
+<br />
+ 
 > **@copy: copy data from one table to other (or across servers)**
 
 > @copy @from customer @to Server2>> customer2
@@ -95,24 +106,32 @@ It will open the url in your default browser.
 
 - this will copy the customer data from Server1 to Server2
 
+<br />
+ 
 > **@d: download the result as excel file.**
 
 > @d select \* from customer
 
 - this will give the option to download the customer table data as excel.
 
+<br />
+ 
 > **@b: kind of go to bottom**
 
 > @b customer where name like '%S%'
 
 - display the latest record (by rrn) on top
 
+<br />
+ 
   <hr/>
 
 ** Screen SQL **
 
 TO DO\*\*
 
+<br />
+ 
   <hr/>
 
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/1.png)
