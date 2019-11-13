@@ -52,9 +52,11 @@ It will open the url in your default browser.
 
 > lets say there are 2 servers with names Server1 and Server2. And system is currently connected to Server1.
 
-> straight sql
+> simple sql
+
 > select \* from customer
-> -this will display the customer data on screen.
+
+- this will display the customer data on screen.
 
 - **double click** on any row will display that single row in vertical format.
 - double click on any column (from the vertical row) will display that single column in sperate area.
