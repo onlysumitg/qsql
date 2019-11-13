@@ -14,6 +14,8 @@ Its a brower based SQL client for IBM I.
 > -user name : Admin
 
 > -Password  : AdminPass
+
+> Port: 7007 and 7071
   
 <hr/>
 
