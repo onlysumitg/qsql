@@ -64,6 +64,8 @@ It will open the url in your default browser.
 
 <br />
  
+<br />
+ 
 > Joins
 
 - Table header will contain the table name for each column if data is coming from multiple tables.
@@ -80,6 +82,8 @@ It will open the url in your default browser.
 
 <br />
  
+<br />
+ 
 > **@s : inline Edit**
 
 > @s customer
@@ -92,6 +96,8 @@ It will open the url in your default browser.
 
 <br />
  
+<br />
+ 
 > **@connect: connect to a differnt server to run the sql**
 
 > @connect Server2>> select \* from customer
@@ -100,12 +106,16 @@ It will open the url in your default browser.
 
 <br />
  
+<br />
+ 
 > **@multi: run multiple queries in one go.**
 
 > @multi @s customer && select _ from product && select _ from abc join xyz on a= b
 
 - result for each query will be displayed in a seprate tab.
 
+<br />
+ 
 <br />
  
 > **@copy: copy data from one table to other (or across servers)**
@@ -118,12 +128,16 @@ It will open the url in your default browser.
 
 <br />
  
+<br />
+ 
 > **@d: download the result as excel file.**
 
 > @d select \* from customer
 
 - this will give the option to download the customer table data as excel.
 
+<br />
+ 
 <br />
  
 > **@b: kind of go to bottom**
@@ -134,12 +148,16 @@ It will open the url in your default browser.
 
 <br />
  
+<br />
+ 
   <hr/>
 
 ** Screen SQL **
 
 TO DO\*\*
 
+<br />
+ 
 <br />
  
   <hr/>
