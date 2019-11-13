@@ -1,14 +1,14 @@
-# qsql: SQL client for IBM I
+# QSQL: SQL client for IBM I
 
 Its a brower based SQL client for IBM I.
 
 **Download or clone this repo.**
 
-> For windows
+> For Windows
 
-1. Simply click on 1RUN.BAT file.
+1. Simply click on **1RUN.BAT** file.
 
-> For Linux/Mac/ Windows
+> For Linux/Mac/ ( and Windows if needed)
 
 1. point shell/cmd/powershell (or whatever its called) in that dir and use the following command
 2. java -jar qsql.jar
