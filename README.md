@@ -1,6 +1,4 @@
-# qsql
-
-Q SQL: IBM I - SQL client
+# qsql: SQL client for IBM I
 
 Its a brower based SQL client for IBM I.
 
@@ -67,6 +65,16 @@ It will open the url in your default browser.
 > Joins
 
 - Table header will contain the table name for each column if data is coming from multiple tables.
+
+<br />
+
+> Stored Procedure calls
+
+- To call a stored produre there is no need to enter "?" for out parameter.
+
+- named parameter as are supported.
+
+- Overloaded stored procedures are not supported.
 
 <br />
  
