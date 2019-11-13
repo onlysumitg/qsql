@@ -50,7 +50,7 @@ It will open the url in your default browser.
 
  <hr/>
 
-**Special Examples**
+**Examples**
 
 > lets say there are 2 servers with names Server1 and Server2. And system is currently connected to Server1.
 
@@ -66,7 +66,7 @@ It will open the url in your default browser.
 
 - Table header will contain the table name for each column if data is coming from multiple tables.
 
-> @s : inline Edit
+> **@s : inline Edit**
 
 > @s customer
 
@@ -106,6 +106,8 @@ It will open the url in your default browser.
 > @b customer where name like '%S%'
 
 - display the latest record (by rrn) on top
+
+  <hr/>
 
 ** Screen SQL **
 
