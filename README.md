@@ -9,8 +9,9 @@ Download or clone this repo.
 > java -jar qsql.jar
 
 Default 
-> user name : Admin
-> Password  : AdminPass
+> -user name : Admin
+
+> -Password  : AdminPass
   
 
 Main Features:
