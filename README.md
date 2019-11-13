@@ -9,6 +9,8 @@ Its a brower based SQL client for IBM I.
 > point shell/cmd/powershell (or whatever its called) in that dir and use the following command
 
 > java -jar qsql.jar
+> --OR--
+> For windows : Simply click on 1RUN.BAT file.
 
 It will open the url in your default browser.
 
