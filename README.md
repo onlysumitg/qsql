@@ -75,19 +75,19 @@ It will open the url in your default browser.
 - this will give inline edit options for the customer table data.
 - @s select \* from customer is not allowed
 
-> @connect: connect to a differnt server to run the sql
+> **@connect: connect to a differnt server to run the sql**
 
 > @connect Server2>> select \* from customer
 
 - this will run the given query on "Server2"
 
-> @multi: run multiple queries in one go.
+> **@multi: run multiple queries in one go.**
 
 > @multi @s customer && select _ from product && select _ from abc join xyz on a= b
 
 - result for each query will be displayed in a seprate tab.
 
-> @copy: copy data from one table to other (or across servers)
+> **@copy: copy data from one table to other (or across servers)**
 
 > @copy @from customer @to Server2>> customer2
 
@@ -95,13 +95,13 @@ It will open the url in your default browser.
 
 - this will copy the customer data from Server1 to Server2
 
-> @d: download the result as excel file.
+> **@d: download the result as excel file.**
 
 > @d select \* from customer
 
 - this will give the option to download the customer table data as excel.
 
-> @b: kind of go to bottom
+> **@b: kind of go to bottom**
 
 > @b customer where name like '%S%'
 
@@ -114,6 +114,7 @@ It will open the url in your default browser.
 TO DO\*\*
 
   <hr/>
+
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/1.png)
 
 <hr/>
