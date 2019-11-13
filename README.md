@@ -3,18 +3,18 @@ Q SQL: IBM I - SQL client
 
 Its a brower based SQL client for IBM I. 
 
-Download or clone this repo.
+**Download or clone this repo.**
 > point shell/cmd/powershell (or whatever its called) in that dir and use the following command
 
 > java -jar qsql.jar
 
-Default 
+**Default**
 > -user name : Admin
 
 > -Password  : AdminPass
   
 
-Main Features:
+**Main Features:**
 
 1. Inline-edits with @s query.
 2. Copy data between servers with @copy query.
