@@ -19,8 +19,9 @@ Main Features:
 2. Copy data between servers with @copy query.
 3. Option to save the query to use across multiple servers.
 4. @table and @sp queries to view the catalog details.
-5. Screen SQL: to build the quick screens for reusable sqls.
-6. DB DOC: To document database tables.
+5. Formatted and clean view of large datatypes like JSON and XML.
+6. Screen SQL: to build the quick screens for reusable sqls.
+7. DB DOC: To document database tables.
 
   
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/1.png)
