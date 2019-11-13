@@ -120,9 +120,9 @@ It will open the url in your default browser.
  
 > **@copy: copy data from one table to other (or across servers)**
 
-> @copy @from customer @to Server2>> customer2
+> @copy from customer to Server2>> customer2
 
-> @copy @from select \* customer where custid>10 @to Server2>> customer2
+> @copy from select \* customer where custid>10 to Server2>> customer2
 
 - this will copy the customer data from Server1 to Server2
 
