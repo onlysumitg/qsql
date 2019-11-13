@@ -7,13 +7,13 @@ Its a brower based SQL client for IBM I.
 > point shell/cmd/powershell (or whatever its called) in that dir and use the following command
 
 > java -jar qsql.jar
-<hr>
+<hr/>
 **Default**
 > -user name : Admin
 
 > -Password  : AdminPass
   
-<hr>
+<hr/>
 **Main Features:**
 
 1. Inline-edits with @s query.
@@ -24,14 +24,15 @@ Its a brower based SQL client for IBM I.
 6. @multi to run multiple quries in one go.
 7. Screen SQL: to build the quick screens for reusable sqls.
 8. DB DOC: To document database tables.
-
+<hr/>
 **Features not included:**
 1. calls for overloaded SPs.
 
- <hr> 
+ <hr/>
+ 
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/1.png)
 
-<hr>
+<hr/>
 
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/6.png)
 >
@@ -39,24 +40,24 @@ Its a brower based SQL client for IBM I.
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/2.png)
 
 >
-<hr>
+<hr/>
 
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/3.png)
 
 
 >
 
-<hr>
+<hr/>
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/4.png)
 
 
 >
-<hr>
+<hr/>
 
 ![Image of QSQL](https://github.com/onlysumitg/qsql/blob/master/images/5.png)
 
 >
-<hr>
+<hr/>
 
 ALL SOFTWARE IS PROVIDED “AS IS” WITHOUT ANY WARRANTY OF ANY NATURE WHATSOEVER. THE PROVIDER OF THIS SOFTWARE HEREBY DISCLAIMS ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS, STATUTORY OR OTHERWISE, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTY OF TITLE AND THE IMPLIED WARRANTY OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE PROVIDER SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR AS A RESULT OF YOUR USE
 OF THIS SOFTWARE. USE IT AS YOUR OWN RISK.
